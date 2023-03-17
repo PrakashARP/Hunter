@@ -1,6 +1,7 @@
 
 import Image from 'next/image';
 import Logo from '../../public/images/logo.png';
+import { ConnectButton } from '@rainbow-me/rainbowkit';
 
 const Nav = () => {
     return <>
@@ -33,7 +34,8 @@ const Nav = () => {
       </ul>
     </nav>
     <a href="#" className="lg:ml-4 flex items-center justify-start lg:mb-0 mb-4 pointer-cursor">
-    <button className='bg-yellow-300 p-2 w-40 text-black rounded-lg m-3 '>Conect Wallet</button>
+      <ConnectButton/>
+    {/* <button className='bg-yellow-300 p-2 w-40 text-black rounded-lg m-3 '>Conect Wallet</button> */}
       {/* <img className="rounded-full w-10 h-10 border-2 border-transparent hover:border-indigo-400" src="https://pbs.twimg.com/profile_images/1128143121475342337/e8tkhRaz_normal.jpg" alt="Andy Leverenz"/> */}
     </a>
 
