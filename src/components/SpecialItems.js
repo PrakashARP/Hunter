@@ -1,14 +1,10 @@
 import Image from "next/image";
-import Second from "../../public/images/Second.png";
+import Second from "../../public/images/second.png";
 
 import H1 from "../../public/images/H1.jpg";
 import H2 from "../../public/images/H2.jpg";
 import H3 from "../../public/images/H3.jpg";
-import H4 from "../../public/images/H4.jpg";
-
-
-
-Image    
+import H4 from "../../public/images/H4.jpg";    
     
     const Special = () =>{
         return (
