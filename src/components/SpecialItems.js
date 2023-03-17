@@ -169,11 +169,11 @@ import H4 from "../../public/images/H4.jpg";
             
     //     </div>
     //     </div>
-    //     <div class="grid grid-flow-row auto-rows-max">
+    //     <div className="grid grid-flow-row auto-rows-max">
 
-    //     <div class="col-span-2 text-center bg-fuchsia-300"> <h4 className="text-4xl text-white font-bold">Find your special items</h4> </div>
+    //     <div className="col-span-2 text-center bg-fuchsia-300"> <h4 className="text-4xl text-white font-bold">Find your special items</h4> </div>
       
-    //     <div class=" bg-orange-300">
+    //     <div className=" bg-orange-300">
     //     <h4 className="text-4xl text-white font-bold">Find your special items</h4> 
     //     </div>
     //   </div>

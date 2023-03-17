@@ -10,7 +10,7 @@ const Divder = () => {
         <h3 className="text-white font-bold text-6xl mb-18 ">Explore More NFT Art Services
 </h3>
       </div>
-      <div class="grid grid-cols-3">
+      <div className="grid grid-cols-3">
       <div className="flex flex-col justify-center items-center p-10">
           <Image
             alt="HUNTER"
