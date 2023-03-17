@@ -27,10 +27,12 @@ const Banner = ()=>{
         <Image
             alt="HUNTER"
             src={Char}
+            width={300}
+            height={300}
             sizes="100vw"
             style={{
                 width: '100%',
-                height: '700px',
+                height: 'auto',
             }}
             />
         </div>
